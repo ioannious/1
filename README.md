@@ -1,1 +1,1 @@
-# 1
+# 1d=dist(pmatrix)
